@@ -17,24 +17,16 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MikeRedfox/Front-end-try)
-- Live Site URL: [Add live site URL here](https://naughty-aryabhata-0df0a1.netlify.app/)
+- Solution URL: [Here](https://github.com/MikeRedfox/Front-end-try)
+- Live Site URL: [Here](https://naughty-aryabhata-0df0a1.netlify.app/)
 
-## My process
 
 ### Built with
 
 - Simple HTML and CSS
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 ## Author
 
 - Frontend Mentor - [@MikeRedfox](https://www.frontendmentor.io/profile/MikeRedfox)
-- Twitter - [@yourusername](https://www.twitter.com/GuardaMichele)
+- Twitter - [@GuardaMichele](https://www.twitter.com/GuardaMichele)
 

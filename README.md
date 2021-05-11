@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./CATTURA.png)
+![](CATTURA.png)
 
 ### Links
 

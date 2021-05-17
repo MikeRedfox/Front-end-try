@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Here](https://github.com/MikeRedfox/Front-end-try)
-- Live Site URL: [Here](https://naughty-aryabhata-0df0a1.netlify.app/)
+- Live Site URL: [Here](https://3-column-preview-mikeredfox.netlify.app/)
 
 
 ### Built with
